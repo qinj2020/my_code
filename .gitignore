@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+
+*.sln
+*.user
+*.log
+demo/Debug/
+demo/.vs/
+demo/x64/
